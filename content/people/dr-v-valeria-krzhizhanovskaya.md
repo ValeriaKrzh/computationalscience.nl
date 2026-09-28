@@ -26,8 +26,8 @@ method_keywords:
   - "System Dynamics & Causal Modeling"
   - "Game Theory"
   - "Network Science"
-  - "Information Theory"
   - "Multi-Scale Simulation"
   - "High-Performance Computing (HPC)"
   - "Data-Driven Modeling & AI"
+  - "Scientific Machine Learning (SciML)"
 ---
