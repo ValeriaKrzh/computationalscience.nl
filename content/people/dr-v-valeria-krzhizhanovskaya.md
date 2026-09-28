@@ -6,19 +6,15 @@ description: "Assistant Professor"
 image: "img/people/dr-v-valeria-krzhizhanovskaya.png"
 group: "Faculty"
 active: true
-email: ""
+email: "V.Krzhizhanovskaya@uva.nl"
 website: "http://staff.fnwi.uva.nl/v.krzhizhanovskaya/"
 seniority: 3
 domain_keywords:
   - "Computational Social Science"
-  - "Sustainability & Ecology"
+  - "Sustainability, Environmental Science"
   - "Computational Biomedicine"
   - "Materials Science"
-  - "Quantitative Finance"
-  - "Economics"
   - "Urban Dynamics"
-  - "Computational Physics"
-  - "Computational Chemistry"
   - "Complex Systems"
   - "Computational Psychology"
 method_keywords:
@@ -30,4 +26,5 @@ method_keywords:
   - "Multi-Scale Simulation"
   - "High-Performance Computing (HPC)"
   - "Data-Driven Modeling & AI"
+  - "Uncertainty Quantification, Sensitivity Analysis, Credibility"
 ---
